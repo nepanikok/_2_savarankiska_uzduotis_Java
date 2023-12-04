@@ -6,8 +6,8 @@ The GeoLocation Java program is designed to manage geographic locations with a u
 
 - **GeoLocation Class:**
   - Create a location with specific latitude and longitude.
-  - Generate random locations.
-  - Generate random locations near and far away.
+  - Generate random location.
+  - Generate random location near vilnius.
   - Print the coordinates of a location.
 
 - **Distance Calculation:**
